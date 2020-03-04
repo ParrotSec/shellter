@@ -1,0 +1,61 @@
+                                License Agreement
+                               ====================
+
+This software makes use of the "BeaEngine Disassembler" library.
+
+This license was updated the 26th of February 2017.
+
+
+Disclaimer
+-----------
+This software is created with the sole purpose to assist ethical hackers in their daily jobs during
+Penetration Testing and/or Red Team engagements. The author of this software and Insainted Ltd
+assume no responsibility for any unlawful actions taken and any damages caused by using this software.
+
+
+                               Terms of Use
+                              ==============
+
+1) You can use this software and share it with anyone as long as you do this
+   for free and you respect all the following terms.
+
+2) You assume full responsibility for any damage caused by this software either
+   this applies to you or to someone else.
+
+3) You assume full responsibility for any unlawful actions taken by using this
+   software.
+
+4) You are allowed to modify this software, but if you do then you have to
+   explicitly state so in case you share it with other people.
+
+5) You are allowed to reverse engineer it, disassemble it, debug it, for any
+   reason that might be, but in case you find a bug then please report it to
+   the author and give him the necessary amount of time to fix it before
+   disclosing it.
+
+6) You are allowed to distribute this software from your own website, but if
+   you do then you have to include a link to the official website along with
+   a link to this license agreement.
+
+7) You are allowed to use this software for work purposes, but you are not
+   allowed to charge for it.
+   
+   This means that you have the right to use it as a complementary tool to
+   assist you at work for business purposes, but you are not allowed to to use
+   it in situations that fall in the following two cases (a and b) without the
+   written agreement of its author.
+   
+   a. You are not allowed to build a commercial service based on this software.
+   b. You are not allowed to integrate this software with any other software,
+      unless it's for private usage and does not violate the previous term.
+
+8) You are not allowed to use this software to gain unauthorized access to a
+   computer system or network without a written agreement of its owner.
+
+9) You are not allowed to build any type of public software such as 'tools',
+   'scripts', 'applications', and 'frameworks', that are using and/or
+   referencing this software without the written agreement of its author.
+
+
+Thank you,
+kyREcon
