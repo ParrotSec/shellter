@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /usr/share/windows-resources/shellter/
+wine shellter.exe $@

@@ -1,0 +1,5 @@
+debian/helper-script/* usr/bin/
+shellter.exe usr/share/windows-resources/shellter/
+Executable_SHA-256.txt usr/share/windows-resources/shellter/
+shellcode_samples/ usr/share/windows-resources/shellter/
+licenses/Shellter_License.txt usr/share/doc/shellter/

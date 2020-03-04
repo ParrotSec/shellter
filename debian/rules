@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ 
+
+override_dh_installchangelogs:
+	dh_installchangelogs docs/version_history.txt

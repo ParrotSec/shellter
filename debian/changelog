@@ -1,0 +1,93 @@
+shellter (7.2-0parrot1) rolling-testing; urgency=medium
+
+  * Import Kali version into Parrot.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 04 Mar 2020 15:26:44 +0100
+
+shellter (7.2-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release (fixes 6033)
+
+ -- Sophie Brun <sophie@offensive-security.com>  Sun, 23 Feb 2020 09:53:09 +0100
+
+shellter (7.1-0kali5) kali-dev; urgency=medium
+
+  * Add dependents to kali-defaults
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Wed, 17 Jul 2019 12:49:23 +0100
+
+shellter (7.1-0kali4) kali-dev; urgency=medium
+
+  * Update helper-script
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Fri, 21 Jun 2019 19:38:15 +0100
+
+shellter (7.1-0kali3) kali-dev; urgency=medium
+
+  * Switch to kali_winexec
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Thu, 13 Jun 2019 10:59:47 +0100
+
+shellter (7.1-0kali2) kali-dev; urgency=medium
+
+  * Switch install location
+
+ -- Ben Wilson <g0tmi1k@kali.org>  Tue, 11 Jun 2019 17:17:53 +0100
+
+shellter (7.1-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Fri, 23 Feb 2018 10:40:42 +0100
+
+shellter (7.0-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 19 Jul 2017 15:24:03 +0200
+
+shellter (6.9-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 28 Feb 2017 09:37:31 +0100
+
+shellter (6.8-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 12 Jan 2017 16:27:33 +0100
+
+shellter (6.5-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+  * Update the helper-script (see #792695)
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 08 Sep 2016 14:03:42 +0200
+
+shellter (4.0-0kali1) kali-dev; urgency=medium
+
+  * Import new upstream release
+  * Update the helper-script for kali-dev and sana (command wineconsole doesn't
+    exist anymore)
+
+ -- Sophie Brun <sophie@freexian.com>  Fri, 17 Jul 2015 15:35:50 +0200
+
+shellter (3.1-0kali3) kali-dev; urgency=medium
+
+  * Fix helper-script (manage args)
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 03 Jun 2015 08:12:52 +0200
+
+shellter (3.1-0kali2) kali; urgency=medium
+
+  * Use wineconsole instead of wine in helper-script
+  * Fix debian/copyright
+
+ -- Sophie Brun <sophie@freexian.com>  Tue, 02 Jun 2015 14:22:01 +0200
+
+shellter (3.1-0kali1) kali; urgency=low
+
+  * Initial packaging for kali (Closes: 0001851)
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 01 Jun 2015 16:07:15 +0200

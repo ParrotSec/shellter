@@ -1,0 +1,26 @@
+Source: shellter
+Section: non-free/misc
+Priority: optional
+Maintainer: Parrot Dev Team <team@parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://www.shellterproject.com/
+Vcs-Git: https://nest.parrot.sh/packages/tools/shellter.git
+Vcs-Browser: https://nest.parrot.sh/packages/tools/shellter
+
+Package: shellter
+Architecture: i386 amd64
+Depends: wine,
+         ${shlibs:Depends},
+         ${misc:Depends},
+Description: Dynamic shellcode injection tool and dynamic PE infector
+ Shellter is a dynamic shellcode injection tool aka dynamic PE infector. It can
+ be used in order to inject shellcode into native Windows applications
+ (currently 32-bit apps only). The shellcode can be something yours or
+ something generated through a framework, such as Metasploit.
+ .
+ Shellter takes advantage of the original structure of the PE file and doesn't
+ apply any  modification such as changing memory access permissions in sections
+ (unless the user wants to), adding an extra section with RWE access, and
+ whatever would look dodgy under an AV scan.
